@@ -2,9 +2,10 @@
 
 <img src='assets/README/gif_v2.gif' width=267> <img src='assets/README/gif_v1.gif' width=266> <img src='assets/README/gif_v3.gif' width=267>
 
-This repository includes the code used for RailSafeNet pipeline develoment. This pipeline was developed for the master's thesis **Automatic Detection of Objects in the Track from the Recording** and a following proceedings **RailSafeNet: Visual Scene Understanding for Tram Safety** by author [Ondřej Valach](https://github.com/oValach), supervised by [Ivan Gruber](https://github.com/YvanG). This thesis is accessible from [Theses](https://arxiv.org/pdf/2509.12125).  
+This repository includes the code used for RailSafeNet pipeline develoment. This pipeline was developed for the master's thesis **Automatic Detection of Objects in the Track from the Recording** and a following proceedings **RailSafeNet: Visual Scene Understanding for Tram Safety** by author [Ondřej Valach](https://github.com/oValach), supervised by [Ivan Gruber](https://github.com/YvanG). This thesis is accessible from [arXiv](https://arxiv.org/pdf/2509.12125).  
 
 **The complete real life visualisation footage accesible from [footage](https://drive.google.com/file/d/1JHW8TfCtTTjQT848u3zUgqLuxSan3gMt/view?usp=sharing).**
+**Weights are accesible from [drive]([https://drive.google.com/file/d/1JHW8TfCtTTjQT848u3zUgqLuxSan3gMt/view?usp=sharing](https://drive.google.com/drive/folders/1-5HlYpkfwCFYpsAw2xtTErWIw2kGTyZC?usp=sharing)).**
 
 ## About
 The directory `assets` includes folder `models_pretrained`. That is a directory for fine-tuned weights of SegFormerB3 and Yolov8s models. Other folders include used datasets for the model finetuning (RailSem19 and Pisel Railway Dataset) with information on the structure.
