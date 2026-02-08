@@ -2,7 +2,7 @@
 
 <img src='assets/README/gif_v2.gif' width=267> <img src='assets/README/gif_v1.gif' width=266> <img src='assets/README/gif_v3.gif' width=267>
 
-This repository includes the code used for RailSafeNet pipeline develoment. This pipeline was developed for the master's thesis **Automatic Detection of Objects in the Track from the Recording** and a following proceedings **RailSafeNet: Visual Scene Understanding for Tram Safety** by author [Ondřej Valach](https://github.com/oValach), supervised by [Ivan Gruber](https://github.com/YvanG). This thesis is accessible from [Theses](https://theses.cz/id/03nn2a/?lang=en).  
+This repository includes the code used for RailSafeNet pipeline develoment. This pipeline was developed for the master's thesis **Automatic Detection of Objects in the Track from the Recording** and a following proceedings **RailSafeNet: Visual Scene Understanding for Tram Safety** by author [Ondřej Valach](https://github.com/oValach), supervised by [Ivan Gruber](https://github.com/YvanG). This thesis is accessible from [Theses](https://arxiv.org/pdf/2509.12125).  
 
 **The complete real life visualisation footage accesible from [footage](https://drive.google.com/file/d/1JHW8TfCtTTjQT848u3zUgqLuxSan3gMt/view?usp=sharing).**
 
